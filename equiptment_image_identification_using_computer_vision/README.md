@@ -77,7 +77,3 @@ pip install scipy
 
 Run command:
 python <python file_name> --train_images_folder <train_image_dir> --test_images_folder <test_image_dir>
-
-Example: 
-python connector_gauge_randomforest._classifier.py --train_images_folder C:\Users\kq250f\Desktop\Desktop\BCS\imagerecognization\src\equiptment\train\images --test_images_folder C:\Users\kq250f\Desktop\Desktop\BCS\imagerecognization\src\equiptment\test\images
-
